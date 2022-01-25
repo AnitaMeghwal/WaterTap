@@ -41,7 +41,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tapwater';
-   state = 'green';
+   state = 'blu';
    visible = true;
    show = true;
 
